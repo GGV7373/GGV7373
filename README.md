@@ -20,12 +20,6 @@
 - **Fields of Interest:** Networking, Web Development, Automation  
 
 ---
-
-## 🔗 Featured Projects
-- 📄 [pdf_reader](https://github.com/GGV7373/pdf_reader) – A tool to read and summarise PDFs.  
-- 📜 [Proverbs-Ollama](https://github.com/GGV7373/Proverbs-Ollama) – Playing with Python and text.  
-
----
 ⭐ Thanks for visiting my profile! Feel free to check out my repos or connect.  
 
 [![GGV7373 GitHub stats](https://github-readme-stats.vercel.app/api?username=GGV7373)](https://github.com/anuraghazra/github-readme-stats)
