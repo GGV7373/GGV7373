@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, I'm GGV7373  
 
-<!--
-**GGV7373/GGV7373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an IT student (2nd year of high school) passionate about technology, coding, and problem-solving.  
+💻 Daily driver: **Linux Ubuntu**  
+🌐 Interests: **Networking, Web Development (HTML, CSS, JS), and Python**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning advanced networking and improving my coding skills.  
+- 🛠️ Enjoy experimenting with small projects to explore new ideas.  
+- 🐧 Big fan of open-source tools and Linux systems.  
+- 📚 Always curious and eager to expand my knowledge in IT.  
+
+---
+
+## 🧑‍💻 Tech Stack
+- **Languages:** HTML, CSS, JavaScript, Python  
+- **Tools & Systems:** Linux (Ubuntu), Git/GitHub, VS Code  
+- **Fields of Interest:** Networking, Web Development, Automation  
+
+---
+
+## 🔗 Featured Projects
+- 📄 [pdf_reader](https://github.com/GGV7373/pdf_reader) – A tool to read and summarise PDFs.  
+- 📜 [Proverbs-Ollama](https://github.com/GGV7373/Proverbs-Ollama) – Playing with Python and text.  
+
+---
+⭐ Thanks for visiting my profile! Feel free to check out my repos or connect.  
+
+[![GGV7373 GitHub stats](https://github-readme-stats.vercel.app/api?username=GGV7373)](https://github.com/anuraghazra/github-readme-stats)
