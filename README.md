@@ -14,7 +14,7 @@ Interests: **Networking, Web Development (HTML, CSS, JS), and Python**
 
 ## Tech Stack
 - **Languages:** HTML, CSS, JavaScript, Python  
-- **Tools & Systems:** Linux (Ubuntu), Git/GitHub, VS Code  
+- **Tools & Systems:** Linux (Arch), Git/GitHub, VS Code  
 - **Fields of Interest:** Networking, Web Development, Automation  
 
 ---
