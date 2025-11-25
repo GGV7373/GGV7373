@@ -1,7 +1,7 @@
 # Hi there, I'm GGV7373  
 
 I'm an IT student (2nd year of high school) passionate about technology, coding, and problem-solving.  
-Daily driver: **Arch linux + Hypland**  
+Daily driver: **Arch linux + KDI/Hypland**  
 Interests: **Networking, Web Development (HTML, CSS, JS), and Python**  
 
 ---
