@@ -1,7 +1,7 @@
 # Hi there, I'm GGV7373  
 
-I'm an IT student (2nd year of high school) passionate about technology, coding, and problem-solving.  
-Daily driver: **Arch linux + KDI**  
+I'm an IT apprentice, currently in my first year of learning the trade. Passionate about technology, coding, and problem-solving.
+Daily driver: **W11 and Ubounto**  
 Interests: **Networking, Web Development (HTML, CSS, JS), Automsaon, and Python**  
 
 ---
@@ -14,7 +14,7 @@ Interests: **Networking, Web Development (HTML, CSS, JS), Automsaon, and Python*
 
 ## Tech Stack
 - **Languages:** HTML, CSS, JavaScript, Python  
-- **Tools & Systems:** Linux (Arch), Git/GitHub, VS Code  
+- **Tools & Systems:** Linux (Arch, Ubunto), Git/GitHub, VS Code  
 - **Fields of Interest:** Networking, Web Development, Automation  
 
 ---
