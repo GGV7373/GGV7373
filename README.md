@@ -1,8 +1,8 @@
 # Hi there, I'm GGV7373  
 
 I'm an IT apprentice, currently in my first year of learning the trade. Passionate about technology, coding, and problem-solving.
-Daily driver: **W11 and Ubounto**  
-Interests: **Networking, Web Development (HTML, CSS, JS), Automsaon, and Python**  
+- Daily driver: **W11 and Ubounto**  
+- Interests: **Networking, Web Development (HTML, CSS, JS), Automsaon, and Python**  
 
 ---
 
