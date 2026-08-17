@@ -1,26 +1,31 @@
-# Hi there, I'm GGV7373  
+# Hi there, I'm GGV7373
 
-I'm an IT apprentice, currently in my first year of learning the trade. Passionate about technology, coding, and problem-solving.
-- Daily driver: **W11 and Ubounto**  
-- Interests: **Networking, Web Development (HTML, CSS, JS), Automsaon, and Python**  
+I'm an IT apprentice, currently in my second year of learning the trade. Passionate about technology, coding, and problem-solving.
+
+- **Daily driver:** W11 and Ubuntu
+- **Interests:** Networking, Web Development (HTML, CSS, JS), Automation, and Python
 
 ---
 
 ## About Me
-- Currently learning networking and improving my coding skills.  
-- Enjoy experimenting with small projects to explore new ideas.  
-- Big fan of open-source tools and Linux systems.  
+
+- Working as an IT apprentice, applying and building on my networking and coding skills.
+- Enjoy experimenting with small projects to explore new ideas.
+- Big fan of open-source tools and Linux systems.
+
 ---
 
 ## Tech Stack
-- **Languages:** HTML, CSS, JavaScript, Python  
-- **Tools & Systems:** Linux (Arch, Ubunto), Git/GitHub, VS Code  
-- **Fields of Interest:** Networking, Web Development, Automation  
+
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Tools & Systems:** Linux (Arch, Ubuntu), Git/GitHub, VS Code
+- **Fields of Interest:** Networking, Web Development, Automation
 
 ---
+
+
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ggv7373&hide_border=true&border_radius=6)
+<!-- ![Top Languages](https://ghstats.dev/api/langs?username=ggv7373&hide_border=true&layout=horizontal_list) -->
+
 (btw, visit my website: [the-victor](https://thevictor.net/))
-
-[![GGV7373 GitHub stats](https://github-readme-stats.vercel.app/api?username=GGV7373&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGV7373&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)  
-
