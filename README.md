@@ -14,4 +14,4 @@ See it on my webside [the-victor](https://thevictor.net/qualifications/)
 
 ## GitHub Stats
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=ggv7373&hide_border=true&border_radius=6)
-![Top Languages](https://ghstats.dev/api/langs?username=ggv7373&hide_border=true&layout=horizontal_list)
+![Top Languages](https://ghstats.dev/api/langs?username=ggv7373&hide_border=true&layout=horizontal_list&v=2)
